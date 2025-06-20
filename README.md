@@ -96,7 +96,7 @@ npm run dev
     
 3. Ao concluir, envie um _Pull Request_ explicando claramente o que foi alterado
     
-4. Sempre utilize a branch `dev` para desenvolvimento
+4. Sempre utilize a branch `develop` para desenvolvimento
     
 
 
